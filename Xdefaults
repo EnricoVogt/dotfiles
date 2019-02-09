@@ -1,0 +1,51 @@
+*.foreground: #f9f9f9
+*.background: #404552
+*.cursorColor: #5294e2
+
+! black
+*.color0: #263640
+*.color8: #4a697d
+
+! red
+*.color1: #d12f2c
+*.color9: #fa3935
+
+! green
+*.color2: #819400
+*.color10: #a4bd00
+
+! yellow
+*.color3: #b08500
+*.color11: #d9a400
+
+! blue
+*.color4: #2587cc
+*.color12: #2ca2f5
+
+! magenta
+*.color5: #696ebf
+*.color13: #8086e8
+
+! cyan
+*.color6: #289c93
+*.color14: #33c5ba
+
+! white
+*.color7: #bfbaac
+*.color15: #fdf6e3
+
+
+URxvt.font: xft:DejaVuSansMono Nerd Font:pixelsize=14
+
+URxvt.saveLines: 10000
+
+URxvt.loginShell: true
+
+URxvt.scrollBar: false
+
+URxvt.urlLauncher: chromium
+URxvt.underlineURLs: true
+URxvt.urlButton: 1
+
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: true
