@@ -11,7 +11,7 @@
 #
 
 # RUN xfce-session
-exec --no-startup-id xfce4-session &
+# exec --no-startup-id xfce4-session &
 
 set $mod Mod1
 
@@ -205,6 +205,5 @@ client.background       #383c4a
 
 
 # i3-gaps
-for_window [class=".*"] border pixel 0
-
-gaps inner 5
+#for_window [class=".*"] border pixel 0
+#gaps inner 5
