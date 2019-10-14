@@ -1,4 +1,8 @@
-# Installation
+# GEPARD 
+
+...some config adjustments speciliazed for my home-setup (multiple montiors, etc)
+
+## Installation
 
 1. Clone repo to `~/Projects/dotfiles`
 2. install 

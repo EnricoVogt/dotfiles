@@ -10,8 +10,6 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 #
 
-# RUN xfce-session
-# exec --no-startup-id xfce4-session &
 
 set $mod Mod1
 
@@ -204,6 +202,4 @@ client.unfocused	#404552 #383c4a #7c818c #404552 #383c4a
 client.background       #383c4a
 
 
-# i3-gaps
-#for_window [class=".*"] border pixel 0
-#gaps inner 5
+exec --no-startup-id i3-msg workspace 1
