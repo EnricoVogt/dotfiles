@@ -1,16 +1,14 @@
 # GEPARD 
 
-...some config adjustments speciliazed for my home-setup (multiple montiors, etc)
+...some config adjustments speciliazed just for me
 
 ## Installation
 
 1. Clone repo to `~/Projects/dotfiles`
 2. install 
 - `nvm` 
-- `xfce4` 
-- `xfce-goodies` 
 - `i3`
-- `i3status`
+- `i3blocks`
 - `URxvt (rxvt-unicode)`
 - `zsh`
 - `oh-my-zsh`

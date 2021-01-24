@@ -38,9 +38,7 @@
 URxvt.font: xft:DejaVuSansMono Nerd Font:pixelsize=14
 
 URxvt.saveLines: 10000
-
 URxvt.loginShell: true
-
 URxvt.scrollBar: false
 
 URxvt.urlLauncher: chromium
