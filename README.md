@@ -7,11 +7,13 @@
 1. Clone repo to `~/Projects/dotfiles`
 2. install 
 - `nvm` 
-- `i3`
+- `i3` (gaps)
 - `i3blocks`
 - `URxvt (rxvt-unicode)`
 - `zsh`
 - `oh-my-zsh`
 - `powerlevel10k` (zsh theme) 
+- `polybar`
+- `scrot`
 - `nerd-fonts-dejavu` (https://aur.archlinux.org/packages/nerd-fonts-dejavu-complete/)
 3. run setup.sh `sh setup.sh`
